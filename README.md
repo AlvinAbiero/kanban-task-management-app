@@ -49,5 +49,5 @@ Users should be able to:
 ## Author
 
 - Website - [My Portfolio](https://alvin-portfolio.vercel.app)
-- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/AbieroAlvin)
-- Twitter - [@Toyan](https://www.twitter.com/Alvin_Abiero)
+- Frontend Mentor - [@AbieroAlvin](https://www.frontendmentor.io/profile/AbieroAlvin)
+- Twitter - [@Alvin_Abiero](https://www.twitter.com/Alvin_Abiero)
