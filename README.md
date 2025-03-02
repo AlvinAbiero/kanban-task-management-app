@@ -47,7 +47,6 @@ Users should be able to:
 - [React Hook Form](https://react-hook-form.com/) - For forms
 
 ## Author
-
-- Website - [My Portfolio](https://alvin-portfolio.vercel.app)
+- Website - [My Portfolio](https://alvin-portfolio-phi.vercel.app/)
 - Frontend Mentor - [@AbieroAlvin](https://www.frontendmentor.io/profile/AbieroAlvin)
 - Twitter - [@Alvin_Abiero](https://www.twitter.com/Alvin_Abiero)
