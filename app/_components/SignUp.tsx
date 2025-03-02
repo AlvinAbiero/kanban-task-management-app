@@ -81,7 +81,6 @@ function SignUp() {
     }
   }
 
-
   return (
     <>
       <section
@@ -105,7 +104,7 @@ function SignUp() {
               <h2
                 className={`text-[2.4rem] font-bold ${isDarkMode ? "text-white" : "text-[#000112]"} `}
               >
-                Join Toyan Kanban!
+                Join Abiero Kanban!
               </h2>
               <p className="text-[1.4rem] text-[#828fa3]">
                 Create your account to start streamlining your workflow with our
@@ -139,9 +138,7 @@ function SignUp() {
                   })}
                 />
                 {errors?.name?.message && (
-                  <ErrorMessage>
-                    {errors.name.message as string}
-                  </ErrorMessage>
+                  <ErrorMessage>{errors.name.message as string}</ErrorMessage>
                 )}
               </div>
             </div>
@@ -164,9 +161,7 @@ function SignUp() {
                   })}
                 />
                 {errors?.email?.message && (
-                  <ErrorMessage>
-                    {errors.email.message as string}
-                  </ErrorMessage>
+                  <ErrorMessage>{errors.email.message as string}</ErrorMessage>
                 )}
               </div>
             </div>
