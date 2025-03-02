@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Olatoyan/kanban-task-management-web-app](https://github.com/Olatoyan/kanban-task-management-web-app)
-- Live Site URL: [https://toyan-kanban.vercel.app](https://toyan-kanban.vercel.app)
+- Solution URL: [https://github.com/AlvinAbiero/kanban-task-management-app](https://github.com/AlvinAbiero/kanban-task-management-app)
+- Live Site URL: [https://alvin-kanban-app.vercel.app/](https://alvin-kanban-app.vercel.app/)
 
 ## My process
 
@@ -48,6 +48,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Toyan Portfolio](https://toyan.vercel.app)
-- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
-- Twitter - [@Toyan](https://www.twitter.com/_annonnymouss_)
+- Website - [My Portfolio](https://alvin-portfolio.vercel.app)
+- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/AbieroAlvin)
+- Twitter - [@Toyan](https://www.twitter.com/Alvin_Abiero)
