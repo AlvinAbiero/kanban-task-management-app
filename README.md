@@ -30,9 +30,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/AlvinAbiero/kanban-task-management-app](https://github.com/AlvinAbiero/kanban-task-management-app)
-- Live Site URL: [https://alvin-kanban-app.vercel.app/](https://alvin-kanban.vercel.app/)
+- Live Site URL: [https://alvin-kanban.vercel.app/](https://alvin-kanban.vercel.app/)
 
-- Live Site URL: [https://alvin-kanban-app.vercel.app/]([https://alvin-kanban.vercel.app/]))
 
 ## My process
 
